@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 ## Demo link
 https://solana-tracker-application.vercel.app/
+## Screenshots
+<img width="1323" height="613" alt="image" src="https://github.com/user-attachments/assets/7829c7ec-0326-4be2-befa-9bcdb2cd0e31" />
+<img width="1337" height="606" alt="image" src="https://github.com/user-attachments/assets/3fc93a21-4be5-4df2-a4d0-ea2cc6e13382" />
+<img width="1342" height="605" alt="image" src="https://github.com/user-attachments/assets/39f94a6e-5c0d-4cc0-91a8-5664a48bb4cb" />
+
 ## Getting Started
 
 First, run the development server:
